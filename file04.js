@@ -1,6 +1,8 @@
 function greet(name){
 
-    console.log('hello' + ' ' + name)
+    console.log('knock knock its'  + ' ' + name)
+    console.log('knock knock its ' + ' ' + name)
+    console.log('knock knock its ' + ' ' + name)
 }
 
 greet('Manish')
