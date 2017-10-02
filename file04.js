@@ -1,1 +1,6 @@
-console.log('Learning git and it is very confusing')
+function greet(name){
+
+    console.log('hello' + ' ' + name)
+}
+
+greet('Manish')
